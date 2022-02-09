@@ -1,6 +1,6 @@
 # Masterclass : Basics on Web Scraping :mag_right:
 
-![](https://github.com/MKB-Datalab/masterclass-basics-webscraping/tree/master/images/christin-hume-Hcfwew744z4-unsplash.jpg)
+![](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/images/christin-hume-Hcfwew744z4-unsplash.jpg)
 Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/)
 
 In this first masterclass we introduce some basics on `web scraping`. This technique allows us to retrieve data from websites. This can be especially very handy when there are no datasets available or/and it is not possible to obtain such data via APIs.
