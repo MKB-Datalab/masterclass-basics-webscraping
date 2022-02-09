@@ -1,15 +1,15 @@
 # Masterclass : Basics on Web Scraping :mag_right:
 
-![](https://github.com/dpbac/masterclass-basics-webscraping/blob/master/Images/christin-hume-Hcfwew744z4-unsplash.jpg)
+![](https://github.com/MKB-Datalab/masterclass-basics-webscraping/tree/master/images/christin-hume-Hcfwew744z4-unsplash.jpg)
 Photo by [Christin Hume](https://unsplash.com/@christinhumephoto) on [Unsplash](https://unsplash.com/)
 
 In this first masterclass we introduce some basics on `web scraping`. This technique allows us to retrieve data from websites. This can be especially very handy when there are no datasets available or/and it is not possible to obtain such data via APIs.
 
 Through hands-on examples it is possible to see how to obtain data from different websites having a basic knowledge on HTML and using some Python, and Python packages.
 
-The notebook [Intro & examples webscraping]( https://github.com/dpbac/masterclass-basics-webscraping/blob/master/Notebooks/Intro%20%26%20examples%20webscraping.ipynb) introduces the basics to start webscraping.
+The notebook [Intro & examples webscraping](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Intro%20%26%20examples%20webscraping.ipynb) introduces the basics to start webscraping.
 
-Try what you have learn in another set of examples in [Masterclass hands-on](https://github.com/dpbac/masterclass-basics-webscraping/blob/master/Notebooks/Masterclass%20Hands-on.ipynb). The answer can be found in [LINK ANSWER NOTEBOOK].
+Try what you have learn in another set of examples in [Masterclass Hands-on-Complete](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Masterclass%20Hands-on-Complete.ipynb). The answer can be found in [Masterclass Hands-on-Questions](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Masterclass%20Hands-on-Questions.ipynb).
 
 Visit our repository [Basics on Web Scraping](https://github.com/MKB-Datalab/basics_web_scraping) if you want to follow a example with even more details.
 
