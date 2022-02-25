@@ -9,7 +9,7 @@ Through hands-on examples it is possible to see how to obtain data from differen
 
 The notebook [Intro & examples webscraping](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Intro%20%26%20examples%20webscraping.ipynb) introduces the basics to start webscraping.
 
-Try what you have learn in another set of examples in [Masterclass Hands-on-Complete](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Masterclass%20Hands-on-Complete.ipynb). The answer can be found in [Masterclass Hands-on-Questions](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Masterclass%20Hands-on-Questions.ipynb).
+Try what you have learn in another set of examples in [Masterclass Hands-on-Questions](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Masterclass%20Hands-on-Questions.ipynb). The answer can be found in [Masterclass Hands-on-Complete](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Masterclass%20Hands-on-Complete.ipynb).
 
 Visit our repository [Basics on Web Scraping](https://github.com/MKB-Datalab/basics_web_scraping) if you want to follow a example with even more details.
 
