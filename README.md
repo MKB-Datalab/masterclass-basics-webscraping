@@ -11,6 +11,8 @@ The notebook [Intro & examples webscraping](https://github.com/MKB-Datalab/maste
 
 Try what you have learn in another set of examples in [Masterclass Hands-on-Questions](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Masterclass%20Hands-on-Questions.ipynb). The answer can be found in [Masterclass Hands-on-Complete](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Masterclass%20Hands-on-Complete.ipynb).
 
+**Extra**: It is also possible to work on HTML files previously saved using BeautifulSoup. Notebook [Hands-On Example 2 for Saved HTML File](https://github.com/MKB-Datalab/masterclass-basics-webscraping/blob/master/notebooks/Hands-On%20Example%202%20for%20Saved%20HTML%20File.ipynb) shows how to save a HTML page with help of `requests` and work on the HTML using `BeatifulSoup`.
+
 Visit our repository [Basics on Web Scraping](https://github.com/MKB-Datalab/basics_web_scraping) if you want to follow a example with even more details.
 
 ## :wrench: Tools
